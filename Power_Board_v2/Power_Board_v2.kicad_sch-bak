@@ -6042,15 +6042,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
-			(at 195.58 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "779dbf3d-67fb-49ad-aaa7-baff0c25bfab")
 		)
@@ -6130,7 +6121,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "Supplier Part" "C25804"
 			(at 71.12 40.64 0)
 			(effects
 				(font
@@ -6216,7 +6207,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 148.59 53.34 0)
 			(effects
 				(font
@@ -6438,7 +6429,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "Supplier Part" "C19666"
 			(at 190.5 58.42 0)
 			(effects
 				(font
@@ -6535,7 +6526,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C165948"
+		(property "Supplier Part" "C165948"
 			(at 34.29 135.89 0)
 			(effects
 				(font
@@ -6695,7 +6686,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "Supplier Part" "C15849"
 			(at 148.59 27.94 0)
 			(effects
 				(font
@@ -6845,7 +6836,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 148.59 48.26 0)
 			(effects
 				(font
@@ -6933,7 +6924,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
+		(property "Supplier Part" "C25804"
 			(at 71.12 64.77 0)
 			(effects
 				(font
@@ -7085,7 +7076,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C87469"
+		(property "Supplier Part" "C87469"
 			(at 58.42 52.07 0)
 			(effects
 				(font
@@ -7191,7 +7182,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 157.48 88.9 0)
 			(effects
 				(font
@@ -7355,7 +7346,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
+		(property "Supplier Part" "C2286"
 			(at 201.93 43.18 90)
 			(effects
 				(font
@@ -7643,7 +7634,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 201.93 35.56 0)
 			(effects
 				(font
@@ -7714,15 +7705,6 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 143.51 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C17471"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -7880,7 +7862,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C2145"
+		(property "Supplier Part" " C2145"
 			(at 154.94 67.31 0)
 			(effects
 				(font
@@ -7991,7 +7973,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22373734"
+		(property "SUPPLIER PART" "C22373734"
 			(at 81.28 137.16 0)
 			(effects
 				(font
@@ -8175,7 +8157,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "Supplier Part" "C15849"
 			(at 78.74 54.61 0)
 			(effects
 				(font
@@ -8527,7 +8509,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23159"
+		(property "Supplier Part" "C23159"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -8772,7 +8754,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "Supplier Part" "C19666"
 			(at 218.44 39.37 0)
 			(effects
 				(font
@@ -8860,7 +8842,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "Supplier Part" "C15849"
 			(at 63.5 152.4 0)
 			(effects
 				(font
@@ -9012,7 +8994,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 210.82 35.56 0)
 			(effects
 				(font
@@ -9098,7 +9080,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22843"
+		(property "Supplier Part" "C22843"
 			(at 139.7 67.31 0)
 			(effects
 				(font
@@ -9195,7 +9177,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2290"
+		(property "Supplier Part" "C2290"
 			(at 210.82 43.18 90)
 			(effects
 				(font
@@ -9416,7 +9398,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C333100"
+		(property "Supplier Part" "C333100"
 			(at 33.02 52.07 0)
 			(effects
 				(font
@@ -9570,7 +9552,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C333100"
+		(property "Supplier Part" "C333100"
 			(at 39.37 52.07 0)
 			(effects
 				(font
@@ -9658,7 +9640,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23242"
+		(property "Supplier Part" "C19666"
 			(at 71.12 152.4 0)
 			(effects
 				(font
@@ -9877,7 +9859,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C54313"
+		(property "Supplier Part" "C54313"
 			(at 173.99 40.64 90)
 			(effects
 				(font
