@@ -3902,6 +3902,16 @@
 		)
 		(uuid "b658baf0-6341-4c6e-a619-476acaedb25c")
 	)
+	(text "test\n"
+		(exclude_from_sim no)
+		(at 267.97 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c4f640b1-27a7-4323-ab4a-2fc0f9004a08")
+	)
 	(text "The 75k resistor\nneeds to be 1% \ntolerance\n"
 		(exclude_from_sim no)
 		(at 64.262 170.434 0)
