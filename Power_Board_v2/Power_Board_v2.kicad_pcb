@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "PCB Design for Power Board of MM")
+		(date "2025-03-28")
+		(rev "3")
+		(comment 1 "Author: Joshua Smith (SMTJOS022)")
+		(comment 2 "Author: Ebrahim Bhyat (HYEBR002)")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -1000,7 +1007,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "25e547ce-5689-4f15-8ce8-a8dd06ff8d38")
-		(at 252 156.05)
+		(at 246.1 156.05)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP6"
@@ -1129,7 +1136,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "27d37e02-26c2-4f50-8262-b7091ff25274")
-		(at 252 151)
+		(at 246.1 151)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP5"
@@ -2261,7 +2268,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "440ff9a8-ad19-4c77-a1a6-968afc1e1c7c")
-		(at 241.9 156.05)
+		(at 236 156.05)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP2"
@@ -3527,7 +3534,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "6e7956d6-fa09-40b2-a061-7ab9cb036daa")
-		(at 246.95 151)
+		(at 241.05 151)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP3"
@@ -6701,7 +6708,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "bd73beac-8403-49ab-a096-deafdceb957b")
-		(at 246.95 156.05)
+		(at 241.05 156.05)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP4"
@@ -6830,7 +6837,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D3.0mm"
 		(layer "F.Cu")
 		(uuid "c11f88e8-e145-43dd-91d7-22e0470dcbe3")
-		(at 241.9 151)
+		(at 236 151)
 		(descr "SMD pad as test Point, diameter 3.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP1"
