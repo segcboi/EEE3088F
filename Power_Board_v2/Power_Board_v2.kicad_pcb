@@ -6178,7 +6178,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R17"
-			(at 0 -1.65 0)
+			(at 0.227064 1.9 0)
 			(layer "F.SilkS")
 			(uuid "ff544599-d0e1-4b29-9569-bf0dc1f0cfc0")
 			(effects
@@ -6405,7 +6405,7 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C8"
-			(at 0 -1.05 0)
+			(at -0.3075 -1.05 0)
 			(layer "F.SilkS")
 			(uuid "8f79dcf5-d8dd-4eb8-b7bb-2de2618d67e0")
 			(effects
@@ -8491,14 +8491,6 @@
 		(uuid "ef051134-3912-41ef-8167-20a8cf7b04e7")
 	)
 	(segment
-		(start 250.276197 108.255827)
-		(end 250.16787 108.255827)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 15)
-		(uuid "a3c64f2f-ca7d-40bb-b813-aa38e5b72876")
-	)
-	(segment
 		(start 228.09287 116.775)
 		(end 225.81787 119.05)
 		(width 0.2)
@@ -9025,14 +9017,6 @@
 		(layer "F.Cu")
 		(net 57)
 		(uuid "37577678-7f98-44ec-b711-a3bedf0de435")
-	)
-	(segment
-		(start 246.875 123.05)
-		(end 246.875 123.504468)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 57)
-		(uuid "3a7d68cf-be16-4bca-868e-0df03d4930be")
 	)
 	(segment
 		(start 241.875 124.075)
