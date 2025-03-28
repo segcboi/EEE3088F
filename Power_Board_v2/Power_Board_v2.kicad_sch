@@ -15532,7 +15532,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Library:DFN-8_L3.0-W2.0-P0.50-BL-EP"
+		(property "Footprint" "libbypretty:DFN-8_L3.0-W2.0-P0.50-BL-EP"
 			(at 66.04 226.06 0)
 			(effects
 				(font
@@ -21982,7 +21982,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Library:SW-TH_SS-12D11L3"
+		(property "Footprint" "libbypretty:SW-TH_SS-12D11L3"
 			(at 180.34 167.64 0)
 			(effects
 				(font
@@ -24287,7 +24287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SOT-223_L6.7-W3.5-P2.30-BR"
+		(property "Footprint" "libbypretty:SOT-223_L6.7-W3.5-P2.30-BR"
 			(at 219.71 224.79 0)
 			(effects
 				(font
