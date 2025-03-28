@@ -5718,6 +5718,16 @@
 		)
 		(uuid "4562f805-c115-42fa-b38e-7314ce6c2f3b")
 	)
+	(label "BATT"
+		(at 35.56 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48534146-8fd9-4166-b06c-a5c252f276dd")
+	)
 	(label "5V Out"
 		(at 375.92 49.53 0)
 		(effects
