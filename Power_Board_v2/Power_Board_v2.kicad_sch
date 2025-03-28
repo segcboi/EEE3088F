@@ -6503,7 +6503,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 38.6781 118.11 0)
 			(effects
 				(font
@@ -8863,7 +8863,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x16_Odd_Even"
+		(property "Value" "PH2.54-01-16PZS"
 			(at 369.57 22.86 0)
 			(effects
 				(font
@@ -8905,7 +8905,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" ""
+		(property "LCSC" "C7501602"
 			(at 368.3 44.45 0)
 			(effects
 				(font
