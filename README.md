@@ -26,5 +26,5 @@ Certain external sources were used to make life and the design process slightly 
 - Bouni's Repo: This gave access to a multitude of features that allowed KiCad access to a whole host of components from JLCPCB's parts library.
 - The devil: We sold our souls to the devil himself to actually get this design completed.
 
-##Design Tools
+## Design Tools
 The design of the PCB was done using the free PCB desgin software KiCad. 
